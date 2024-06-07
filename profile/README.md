@@ -19,7 +19,7 @@ Join us to connect with fellow web developers, explore job opportunities, share 
 
 Dive in and start exploring! Let's code, create, and collaborate. :rocket:
 
-### FAQs
+## FAQs
 
 - **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be - [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook), and [EddieHub](https://github.com/EddieHubCommunity).
   Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
