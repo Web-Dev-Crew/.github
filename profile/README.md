@@ -8,7 +8,7 @@ Join us to connect with fellow web developers, explore job opportunities, share 
 
 Dive in and start exploring! Let's code, create, and collaborate. :rocket:
 
-## Steps to get started
+## Steps to get started 🪜
 
 - Raise an issue to [join the web dev crew GitHub organization](https://github.com/Web-Dev-Crew/support/issues/new).
 - [Join the Discord Community](https://discord.gg/FVESSgmqQB)
